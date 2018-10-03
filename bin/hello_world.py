@@ -11,6 +11,7 @@ import pydensecrf.densecrf as crf
 import pymia.evaluation.evaluator as pymia_eval
 import SimpleITK as sitk
 import sklearn.ensemble as sk_ensemble
+"JONAS works"
 
 
 def main():
